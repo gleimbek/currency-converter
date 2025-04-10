@@ -20,11 +20,6 @@ Este es un conversor de monedas desarrollado en Java como parte del desafío Alu
 2. Reemplaza `YOUR-API-KEY` en `ApiService.java` con tu clave de API.
 3. Compila y ejecuta:
 
-```bash
-mvn compile
-mvn exec:java -Dexec.mainClass="com.alura.currency.Main"
-```
-
-## Licencia
-
-MIT
+## Autor
+Gustavo Leimbek
+Proyecto desarrollado como parte del desafío de Alura Latam - Backend con Java.
